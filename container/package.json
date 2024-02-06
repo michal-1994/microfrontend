@@ -4,7 +4,7 @@
 	"main": "index.js",
 	"devDependencies": {},
 	"scripts": {
-		"start": "webpack server"
+		"start": "webpack serve"
 	},
 	"author": "",
 	"license": "ISC",
