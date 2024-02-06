@@ -1,3 +1,2 @@
 import 'barchart/BarchartIndex';
-
-console.log('BarchartIndex');
+import 'linechart/LinechartIndex';
